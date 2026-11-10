@@ -69,21 +69,7 @@ Focused on improving my development skills and working on real-world projects.
 </div>
 <br>
 
-<!-- Pacman 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Xam-585/Xam-585/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Xam-585/Xam-585/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Xam-585/Xam-585/output/pacman-contribution-graph.svg">
-</picture>
--->
-
-  ## Contact
+ ## Contact
   
   <h3>Feel free to check out my repositories or connect with me.</h3>
-  <!-- 
-<div align="left">
-  <a href="https://de.linkedin.com/">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
--->
+
