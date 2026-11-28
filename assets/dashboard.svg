@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="150" viewBox="0 0 900 150" role="img" aria-label="Dashboard awaiting first update">
+  <defs><linearGradient id="accent"><stop stop-color="#000000"/><stop offset="60%" stop-color="#630606"/><stop offset="100%" stop-color="#b80000"/></linearGradient></defs>
+  <rect width="900" height="150" fill="#000000"/>
+  <rect width="900" height="4" fill="url(#accent)"/>
+  <rect y="146" width="900" height="4" fill="url(#accent)"/>
+  <text x="450" y="66" font-family="Arial,sans-serif" font-size="20" text-anchor="middle" fill="#ff3333">Development Dashboard</text>
+  <text x="450" y="94" font-family="Arial,sans-serif" font-size="14" text-anchor="middle" fill="#c9d1d9">Awaiting first GitHub Actions update</text>
+</svg>
