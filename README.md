@@ -66,14 +66,14 @@ I'm currently studying Computer Science and improving my development skills
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 
 ## GitHub Activity
+
+
 <div align="center">
   <img
     width="100%"
-    src="./assets/dashboard.svg"
+    src="https://raw.githubusercontent.com/Xam-585/Xam-585/refs/heads/main/assets/dashboard.svg?v=3"
     alt="GitHub Development Dashboard"
   />
-</div>
-
 </div>
 
  ## Contact
